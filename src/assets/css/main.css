@@ -3135,7 +3135,6 @@ button:disabled,
     height: 100%;
     max-width: 80%;
     overflow-y: auto;
-    padding: 10em 2em 3em 2em;
     position: fixed;
     right: 0;
     top: 0;
@@ -3145,7 +3144,7 @@ button:disabled,
 
 #menu ul {
     list-style: none;
-    padding: 0;
+    padding: 8em 2em 3em 2em;
 }
 
 #menu ul>li {
@@ -3162,10 +3161,10 @@ button:disabled,
     border: 0;
     color: inherit;
     display: block;
-    font-size: 0.8em;
+    font-size: .8em;
     letter-spacing: 0.225em;
     outline: 0;
-    padding: 2.5em 0 0.5em 0;
+    padding: 2em 0 0.5em 0;
     text-decoration: none;
     text-transform: uppercase;
 }
@@ -3187,13 +3186,12 @@ button:disabled,
     position: absolute;
     right: 0;
     top: 0;
-    vertical-align: middle;
     width: 7em;
 }
 
 @media screen and (max-width: 736px) {
-    #menu {
-        padding: 3em 1.5em;
+    #menu ul {
+        padding: 2em 1.5em;
     }
 }
 
@@ -3791,6 +3789,15 @@ body.is-mobile.landing #footer {
     }
 }
 
+@media only screen and (max-width: 438px) {
+    .round {
+        background: black;
+        border-radius: 250px;
+        width: 300px;
+        height: 300px;
+    }
+}
+
 @media only screen and (max-width: 435px) {
     #header h1 a {
         font-size: 14px;
@@ -3825,4 +3832,18 @@ body.is-mobile.landing #footer {
     font-size: 1.2em;
     letter-spacing: 1.2px;
     font-family: Raleway;
+}
+
+.lang {
+    text-align: center;
+    color: black;
+}
+
+.lang ul {
+    padding-top: 10px !important;
+}
+
+.lang ul li {
+    display: inline;
+    list-style: none;
 }
