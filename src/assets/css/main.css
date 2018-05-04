@@ -3764,12 +3764,21 @@ body.is-mobile.landing #footer {
     transition: .5s !important;
 }
 
+.round h3 {
+    color: white;
+    font-weight: 100;
+    padding-top: 4.7em;
+}
+
 @media only screen and (max-width: 1024px) {
     .round {
         background: black;
         border-radius: 250px;
         width: 240px;
         height: 240px;
+    }
+    .round h3 {
+        padding-top: 3.6em;
     }
 }
 
@@ -3787,6 +3796,11 @@ body.is-mobile.landing #footer {
     #header h1 {
         left: 1em;
     }
+    .round h3 {
+        color: white;
+        font-weight: 100;
+        padding-top: 4.5em;
+    }
 }
 
 @media only screen and (max-width: 438px) {
@@ -3795,6 +3809,11 @@ body.is-mobile.landing #footer {
         border-radius: 250px;
         width: 300px;
         height: 300px;
+    }
+    .round h3 {
+        color: white;
+        font-weight: 100;
+        padding-top: 4.7em;
     }
 }
 
@@ -3806,12 +3825,6 @@ body.is-mobile.landing #footer {
     #header h1 {
         left: 1em;
     }
-}
-
-.round h3 {
-    color: white;
-    font-weight: 100;
-    padding-top: 4.7em;
 }
 
 .act-text {
