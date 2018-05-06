@@ -1,0 +1,135 @@
+{
+    "navbar": {
+        "title": "Santa Maria de Mataró",
+        "menu": "Menu",
+        "items": {
+            "langs": {
+                "es": "ES",
+                "cat": "CAT",
+                "en": "EN",
+                "fr": "FR"
+            },
+            "options": {
+                "home": "Home",
+                "dolors": "Douleurs",
+                "tickets": "Billets",
+                "parroquia": "Paroisse",
+                "edifici": "Bâtiment",
+                "contacte": "Contact"
+            }
+        }
+    },
+    "footer": {
+        "direccio": "Adresse",
+        "contacte": "Contact",
+        "arribar": {
+            "title": "Comment venir",
+            "public": "Transport publiquet",
+            "rodalies": "Train: Rodalies Renfe C1 (infos et réserves 902 24 02 02)",
+            "grup1": "Grup Sarbus",
+            "grup2": "Sagalés",
+            "particular": "En voiture",
+            "carretera": "Autoroute C-32 sorties Mataró Sud, Mataró Oest et Mataró Nord. Si vous venez de Granollers, prendre autoroute C-60, qui est connecté aux autoroutes C-32 et NII"
+        }
+    },
+    "home": {
+        "find": "trouve plus",
+        "acts": {
+            "act1": {
+                "title": "Bâtiment",
+                "text1": "Sur le point le plus haut de l’ancienne Iluro repose, derrière une façade néoclassique austère, la mémoire d’une communauté profondément enraciné au territoire.",
+                "text2": "Sainte Marie est un espace capable de raconter les sédiments de plus de vingt siècles. Sa nef colossale dévoile un édifice dans lequel le dialogue entre expressions artistiques et liturgie a créé un espace singulier pour la contemplation.  "
+            },
+            "act2": {
+                "title": "Activités",
+                "text1": "La visite à la basilique est libre dans les horaires d’ouverture publique de l’édifice. ",
+                "text2": "Quelques activités, en raison de la conservation et l’organisation peuvent seulement se réaliser sur rendez-vous. "
+            },
+            "act3": {
+                "title": "Douleurs",
+                "text1": "Vie et mort, lumière et obscurité, célébration et deuil se retrouvent dans un espace où la force de la théâtralité baroque envoute et embrasse le spectateur. ",
+                "text2": ""
+            },
+            "button": "+ Information"
+        },
+        "section1": {
+            "text1": "Le temple de Sainte Marie est un Bien Culturel d’Intérêt National qui se trouve dans un environnement privilégié pour comprendre une ville d’époque moderne. Témoin du temps passé depuis les romains, il est résultat d’un profond dialogue entre histoire et territoire, entre besoin des paroissiens et les courants artistiques de chaque moment. Une paroisse ayant plus de dix siècles à ses épaules qui raconte les vicissitudes d’un peuple fidèle à ses racines",
+            "text2": "L’Ensemble des Douleurs se démarque dû au fait que c’est un espace de dévotion com peu d’autres qu’on peut avoir sous la main. Un très bel exemple d’architecture baroque, un espace fascinant où les peintures de Viladomat et Joan Gallart, entourent le visitant avec une douce embrassade. Des clair-obscurs presque Caravaggiants, qui font présents des idéaux qui semblent sortir de l’obscurité. Un espace à vivre!"
+        },
+        "section2": {
+            "text1": "Les visites guidées proposées permettent de se réjouir d’un connaissement plus précis du patrimoine, contextualisé dans son moment social, historique et liturgique. Un parcours à travers l’histoire de l’art et l’architecture qui n’oublie pas l’usage qui a inspiré la construction et les personnes qui ont réussi à la réaliser. Mille années de patrimoine qui expliquent le développement social et les différentes visions anthropologiques de la transcendance ; mille années d’histoire qui se manifestent avec la volonté de produire de la beauté, objectif tenu jusqu’aujourd’hui.",
+            "text2": "Toutes les activités sont réalisées par un personnel préparé pour offrir une attention de qualité et une information précise, un service qui montre un discours rigoureux en tenant en compte d’essayer d’en faire une activité aussi ludique.",
+            "button": "Tickets"
+        }
+    },
+    "dolors": {
+        "title": "Douleurs",
+        "section1": {
+            "text1": "L’an 1968, à Mataró, le recteur Pau Llorens posait la première pierre d’un des monuments les plus imposants et représentatifs d’une époque et d’un style. Un hall de réception et une grille, distinguent aujourd’hui, la basilique de l’ancienne chapelle adjacente des membres de la congrégation de l’Ensemble des Doleurs (Conjunt dels Dolors).",
+            "text2": "Grandiose et lumineux, au fond, le retable présidé par une Mère de Dieu au cœur traversé par sept épées, rappelant au spectateur à qui est dédicacé l’espace dans lequel on se trouve. Aussi bien que la perspective nous conduit à rester bouche bée en l’observant, bientôt, les détrempes des murs et de la voûte plongent le spectateur dans une atmosphère de contemplation et silence. Un ensemble pictural exceptionnel qui fut à charge du peintre de Barcelone, Antoni de Viladomat, formé par le Via Crucis des murs latéraux et un paysage célestiel couronné par un Père éternel et le Saint Esprit sur la voûte.",
+            "text3": "La chapelle est l’avant-goût de tout l’Ensemble. Dans le même étage on trouve la Sacristie, avant chambre de deux mondes, deux escaliers, un en descente, austère et froid qui mène vers la Cripte, souvenir du destin de l’humanité ; et l’autre en montée, aves des murs extrêmement décorés, nous invite à lever le regard, vers la Chambre de Réunions."
+        },
+        "section2": {
+            "text1": "Si la Chapelle fut conçue com un espace de douleur, de prière et de silence, la Chambre de Réunions était le lieu de préparation, de réunion et de débat, ainsi, les peintures que l’on y trouve représentent la glorification de Marie. On ne laisse pas de côté le clair-obscur, la tragédie et la prodigalité propres au baroque, c’est l’Assomption, entourée des apôtres et des cours célestielles, ce qui enveloppe et hypnotise, dans un petit réceptacle, travaillé en grand détail d’orfèvre, la pluAu-delà de son incontestable valeur artistique l’Ensemble des Doleurs est plus qu’un espace de liturgie, c’est aussi un espace de vie et de retrouvaille, c’est le réflexe d’une certaine façon d’entendre la foi et la spiritualité et aussi un très valeureux témoin de comment était comprise et vécue la religiosité, en communauté aux débuts du XVIII siècle. Il serait impossible de parler de l’Ensemble des Douleurs sans la Congrégation qui l’a érigé, qu’était formée de plus de 1400 personnes de différents métiers et de différentes origines sociales tous ensemble avec le même dévouement, les Douleurs de Marie, une dédicace qui rappelle les souffrances de la mère pour son fils.",
+            "text2": "Plus que les peintres, les sculpteurs et les architectes, l’Ensemble des Doleurs est la célébration de la collectivité, d’un projet commun qui montre que les véritables chefs d’œuvre sont fruit de la réunion de différentes sensibilités et de formes de comprendre le monde.",
+            "text3": "",
+            "button": "Visite Douleurs"
+        }
+    },
+    "edifici": {
+        "title": "Bâtiment",
+        "text1": "Si la ligne droite qu’on peut voir en regardant la façade fait prévoir une continuité à l’intérieur, la prodigalité baroque qui attend le visiteur en traverser le chancel est surprenante. L’horizontalité de la voûte, contraste avec la verticalité des chapelles latérales.",
+        "text2": "Les dômes et les vitraux filtrent la lumière au long de toute la basilique ; deux tours-lanterne à chaque côté du transept éclairent faiblement les chapelles proches aux portes latérales et la nef ainsi que le presbytère reçoivent cette lumière tamisée des vitraux, situés dans la partie supérieure de l’édifice.",
+        "text3": "L’immense presbytère, dernier vestige du grandiose retable baroque qui présidait la nef, présente l’autel, juste au centre, couvert par un mince auvent des années quarante, qui aujourd’hui, par ses dimensions, remplace en fonction l’ancien retable et invite à y diriger le regard, devenant ainsi le centre d’attention.",
+        "text4": "Les dômes latéraux, tous encadrés par les anciens arcs brisés en tiers-point de la construction gothique, sont refuge de différents dévouements et dédicaces, entre lesquelles se perdent dans la nuit des temps. Il faut remarquer une chapelle dédiée aux Saintes Juliana et Semproniana, qui montre, d’une façon peu habituelle, un plan en croix grecque et englobe le dévouement envers les patronnes de la ville. Ici on y trouve aussi le souvenir et les restes, depuis 2010, du Béat Josep Samsó.",
+        "text5": "La Chapelle du Sacrément, espace de prière et de culte au Sanctissime, suit les canons du modernisme et est extrêmement décorée suivant le style byzantin, générant ainsi une atmosphère idéale pour la prière et la contemplation. Les vitraux spectaculaires y aident, confrontés à l’autel, ils donnent de la précision a la lumière qui parvient à entrer et à quelques moments du jour ils arrivent à la convertir en éclaboussures de différentes couleurs qui jouent, de façon surprenante avec les mosaïques du sol et les peintures d’Enric Monserdà.",
+        "text6": "Le baptistère de Sainte Marie, décoré par l’artiste provenant de Mataró, Jordi Arenas, est l’exemple parfait de comme l’art contemporain figuratif peut s’adapter de façon naturelle aux espaces religieux. Juste derrière des fonts baptismaux, un vitrail plombé resplendissant qui représente la résurrection de Christ et apporte une teinte de couleur capable de rompre avec la tonalité crue. Malgré l’intensité et la richesse décorative, on réussit à faire que les véritables personnages principaux soient les fonts baptismaux, puisque tout le cycle pictural oblige au regard de s’y diriger.",
+        "text7": "La basilique de Sainte Marie, est, en bref, l’exemple vivant d’une tradition enracinée aux premiers temps de notre ère, qui fructifie au long des siècles et qui aujourd’hui brille luxuriante malgré les petites blessures qu’elle a souffertes."
+    },
+    "tickets": {
+        "title": "Activités",
+        "warn": "Attention",
+        "reserva": "Reserve: 659 132 649",
+        "act1": {
+            "title": "Visite guidée de la Chapelle des Douleurs",
+            "duration": "Durée: 60 minutes",
+            "desc1": "Prix de groupe : 7€ par personne (minimum 90€). Maximum 30 personnese",
+            "warn1": "Seulement groupes avec rendez-vous",
+            "warn2": "Activité non recommandée aux enfants ayant moins de 14 ans"
+        },
+        "act2": {
+            "title": "Visite guidée de l’Ensemble des Douleurs.",
+            "horari": "Mardi 11h/ Jeudi 18h/ Samedi 11h et 19h",
+            "duration": "Durée: 75 minutes",
+            "desc1": "Prix par personne: 8 €",
+            "desc2": "Group reservation: 105€. Maximum 15 people",
+            "warn1": "Places limitées, essentiel faire une réservation",
+            "warn2": "Activité non recommandée aux enfants ayant moins de 14 ans ni aux personnes ayant une mobilité réduite."
+        },
+        "act3": {
+            "title": "Visite guidée de la basilique de Santa Maria",
+            "duration": "Durée: 60 minutes",
+            "desc1": "Prix de groupe : 7€ par personne (minimum 90€). Maximum 30 personnes",
+            "warn1": "Seulement groupes avec rendez-vous",
+            "warn2": "Activité non recommandée aux enfants ayant moins de 14 ans"
+        },
+        "act4": {
+            "title": "Visite guidée de la paroisse de Sant Josep",
+            "duration": "Durée: 75 minutes",
+            "desc": "Prix de groupe : 7€ par personne (minimum 90€). Maximum 20 personnes.",
+            "warn1": "Seulement groupes avec rendez-vous",
+            "warn2": "Activité non recommandée aux enfants ayant moins de 14 ans ni aux personnes ayant une mobilité réduite."
+        }
+    },
+    "contact": {
+        "title": "Contactez nous",
+        "direction": "Viens Sant Francesc d'Assís, 25, 08301 Mataró, Barcelona",
+        "email": "Envoyer un email a info@santamariamataro.org",
+        "phone": "Appelez le 659 132 649"
+    },
+    "found": {
+        "text1": "PAGE NON TROUVÉE",
+        "text2": "La page demandée n'a pas été trouvée",
+        "button": "Retour home"
+    }
+}

@@ -5,18 +5,25 @@ import { NgModule } from '@angular/core';
 import { AppComponent } from './app.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { FooterComponent } from './footer/footer.component';
-
-
+import {TranslateModule} from 'ng2-translate';
+import {TranslateLoader} from 'ng2-translate';
+import {TranslateStaticLoader} from 'ng2-translate';
+import {Http} from '@angular/http';
 @NgModule({
   declarations: [
     AppComponent,
     NavbarComponent,
-    FooterComponent
+    FooterComponent,
   ],
   imports: [
     BrowserModule,
     APP_ROUTING,
-    PagesModule
+    PagesModule,
+    TranslateModule.forRoot({
+      provide: TranslateLoader,
+      useFactory: (http: Http) => new TranslateStaticLoader(http, '/assets/i18n', '.json'),
+      deps: [Http]
+})
   ],
   providers: [],
   bootstrap: [AppComponent]

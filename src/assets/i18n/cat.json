@@ -1,0 +1,135 @@
+{
+    "navbar": {
+        "title": "Santa Maria de Mataró",
+        "menu": "Menu",
+        "items": {
+            "langs": {
+                "es": "ES",
+                "cat": "CAT",
+                "en": "EN",
+                "fr": "FR"
+            },
+            "options": {
+                "home": "Inici",
+                "dolors": "Dolors",
+                "tickets": "Entrades",
+                "parroquia": "Parròquia",
+                "edifici": "Edifici",
+                "contacte": "Contacte"
+            }
+        }
+    },
+    "footer": {
+        "direccio": "Direcció",
+        "contacte": "Contacte",
+        "arribar": {
+            "title": "Com arribar",
+            "public": "Transport públic",
+            "rodalies": "Rodalies Renfe C1 (informació i reserves 902 24 02 02) ",
+            "grup1": "Grup Sarbus",
+            "grup2": "Sagalés",
+            "particular": "Particular",
+            "carretera": "Per l'autopista C-32, sortides Mataró Sud, Mataró Oest i Mataró Nord, o la N-II. Des de Granollers, C-60, que està connectada a la C-32 i N-II."
+        }
+    },
+    "home": {
+        "find": "Descobreix més",
+        "acts": {
+            "act1": {
+                "title": "Edifici",
+                "text1": "En el punt més alt de l’antiga ciutat d’Iluro descansa, rere una austera façana neoclàssica, la memòria d’una comunitat arrelada profundament en el territori.",
+                "text2": "Santa Maria és un espai capaç d’explicar el pòsit de més de vint segles. La seva nau colossal revela un diàleg entre expressions artístiques i litúrgia. "
+            },
+            "act2": {
+                "title": "Activitats",
+                "text1": "La visita a la Basílica és lliure en els horaris d’obertura pública de l’edifici. ",
+                "text2": "Algunes activitats, per qüestions de conservació i organització, només es poden realitzar sota supervisió i amb reserva prèvia. "
+            },
+            "act3": {
+                "title": "Dolors",
+                "text1": "El conjunt dels Dolors, model indiscutible del barroc català.",
+                "text2": "Vida i mort, llum i foscor, celebració i dol convergeixen en un espai en què la força de la teatralitat barroca corprèn i embolcalla l’espectador. "
+            },
+            "button": "+ Informació"
+        },
+        "section1": {
+            "text1": "El temple de Santa Maria és un Bé Cultural d’Interès Nacional que es troba en un entorn privilegiat per entendre una ciutat d’època moderna. Testimoni del pas del temps des de l’arribada dels romans, és el resultat d’un diàleg profund entre la història i el territori, entre les necessitats dels fidels i els corrents artístics de cada moment. Una parròquia amb més de deu segles a les espatlles que narra les vicissituds d’un poble fidel a les seves arrels.",
+            "text2": "El Conjunt dels Dolors en destaca per ser un espai devocional preservat com pocs en tenim a l’abast. Un bellíssim exemple d’arquitectura barroca, un espai fascinant on les pintures de Viladomat i Joan Gallart embolcallen el visitant gairebé acaronant-lo. Uns clarobscurs, gairebé caravaggiescos, que fan presents uns ideals que semblen sortir de la foscor. Un espai que s’ha de viure!"
+        },
+        "section2": {
+            "text1": "Les visites guiades que es proposen permeten gaudir d’un coneixement més acurat del patrimoni, contextualitzat en el seu moment social, històric i litúrgic. Un recorregut per la història de l’art i de l’arquitectura, que no deixa de banda l’ús que inspirà la construcció i les persones que la feren possible. Mil anys de patrimoni que expliquen el desenvolupament social i les diferents visions antropològiques de la transcendència; mil anys d’història que es manifesten en la voluntat de produir bellesa amb una finalitat que encara avui es manté.",
+            "text2": "Totes les activitats són conduïdes per personal preparat per oferir una atenció de qualitat i una informació acurada, un servei que planteja un discurs rigorós amb el tracte d’una activitat amena.",
+            "button": "Tíquets"
+        }
+    },
+    "dolors": {
+        "title": "CONJUNT DELS DOLORS",
+        "section1": {
+            "text1": "L’any 1698, a Mataró, el rector Pau Llorens col·locava la primera pedra d’un dels monuments més imponents i representatius d’una època i d’un estil. Un vestíbul i una reixa distingeixen, avui, la basílica de l’antiga capella adjacent dels congregants dels Dolors.",
+            "text2": "Grandiós i lluminós al fons, el retaule, presidit per una marededeu amb el cor travessat per set espases, recorda l’espectador a qui és dedicat l’espai i, si bé la perspectiva condueix a quedar-se embadalit observant-lo, aviat les pintures al tremp de les parets i la volta endinsen el visitant en una atmosfera de contemplació i silenci. Un conjunt pictòric excepcional que anà a càrrec del pintor barceloní Antoni de Viladomat i del seu taller: el Via Crucis, a les parets laterals, i un paisatge celestial coronat pel Pare Etern i l’Esperit Sant, a la volta.",
+            "text3": "És la Capella el primer tast de tot el Conjunt. A la mateixa planta hom troba la Sagristia, avantsala de dos mons, de dues escales: una, de baixada, austera i freda, cap a la Cripta, un recordatori de quin és el destí de la vida humana; l’altra, de pujada, amb les parets profusament decorades, convida a aixecar la mirada, cap a la Sala de Juntes"
+        },
+        "section2": {
+            "text1": "Si la Capella fou concebuda com un espai de dolor, d’oració i de silenci, la Sala de Juntes era el lloc de preparació, de reunió i de debat, i així les pintures que l’omplen representen la glorificació de Maria. Sense deixar de banda el clarobscur, la tragèdia i la fastuositat pròpies del Barroc, és l’Assumpció, envoltada dels apòstols i de les corts celestials, el que embolcalla i hipnotitza, en un petit receptacle, treballat amb detallisme d’orfebre, la major part del qual anà també a càrrec de Viladomat.",
+            "text2": "Més enllà de la seva indubtable vàlua artística, el Conjunt del Dolors és més que un espai litúrgic, és un espai de vida i de trobada, és el reflex d’una determinada manera d’entendre la fe i l’espiritualitat i un valuosíssim testimoni de com era entesa i viscuda la religiositat, en comunitat, a principis del segle XVIII. Seria impossible parlar del Conjunt dels Dolors sense la Congregació que el va erigir, que va arribar a aplegar més de 1400 persones de diferents oficis i orígens socials sota una mateixa devoció, els Dolors de Maria, una advocació que recorda els patiments de la mare pel seu fill.",
+            "text3": "Més enllà de pintors, escultors i arquitectes, el Conjunt dels Dolors és la celebració de la col·lectivitat, d’un projecte comú que fa palès que les veritables obres mestres són fruit de l’encontre de diverses sensibilitats i formes d’entendre el món.",
+            "button": "Visita els dolors"
+        }
+    },
+    "edifici": {
+        "title": "L'edifici",
+        "text1": "Si la línia recta que es veu en contemplar la façana fa preveure una continuïtat en l’interior, la fastuositat barroca que espera el visitant en creuar el cancell resulta sorprenent. L’horitzontalitat de la volta, contrasta amb la verticalitat de les capelles laterals.",
+        "text2": "Les cúpules i els vitralls filtren la llum al llarg de tota la basílica; dos cimboris, a banda i banda del transsepte, il·luminen tènuement les capelles properes a les portes laterals i tant la nau com el presbiteri reben la llum tamisada dels vitralls, situats en el cos superior de l’edifici.",
+        "text3": "L’immens presbiteri, darrer vestigi del grandiós retaule barroc que va presidir la nau, presenta l’altar, just al centre, cobert per un esvelt baldaquí dels anys quaranta que, avui, per les seves dimensions, substitueix en funció l’antic retaule i convida a dirigir-hi la mirada i el converteix en el centre d’atenció.",
+        "text4": "Les capelles laterals, totes elles emmarcades pels antics arcs apuntats de la construcció gòtica, són refugi de diverses devocions i dedicacions, algunes de les quals es perden en la nit dels temps. Destaca la capella dedicada a les Santes, Juliana i Semproniana, que presenta, de manera poc habitual, una planta de creu grega i abrigalla la devoció per les patrones de la ciutat. S’hi acull també el record i les restes del, des de 2010, Beat Josep Samsó.",
+        "text5": "La Capella del Sagrament, espai d’oració i de culte al Santíssim, segueix els cànons del modernisme i està decorada profusament amb un estil bizantí que genera una atmosfera idònia per a la pregària i la contemplació. Hi ajuden els espectaculars vitralls, confrontats amb l’altar, que matisen la llum que aconsegueix endinsar-s’hi i que en determinats moments del dia arriben a esquitxar-la de colors diversos que juguen, de manera sorprenent, amb els mosaics del terra i les pintures d’Enric Monserdà.",
+        "text6": "El baptisteri de Santa Maria, decorat per l’artista mataroní Jordi Arenas, és l’exemple perfecte de com l’art contemporani figuratiu pot adaptar-se de manera natural als espais religiosos. Just darrere de la pica baptismal, un resplendent vitrall emplomat que representa la resurrecció de Crist hi aporta un matís de color capaç de trencar amb la tonalitat crua. Tot i la intensitat i la riquesa decorativa, s’aconsegueix que el veritable protagonista sigui la pica baptismal, ja que tot el cicle pictòric obliga que la mirada s’hi dirigeixi.",
+        "text7": "La Basílica de Santa Maria és, en resum, l’exemple viu d’una tradició que s’arrela en els primers temps de la nostra era, que fructifica al llarg dels segles i que avui llueix esponerosa malgrat, fins i tot, les ferides que llueix."
+    },
+    "tickets": {
+        "title": "Entrades",
+        "warn": "Atenció",
+        "reserva": "Reserva: 659 132 649",
+        "act1": {
+            "title": "Visita guiada a la Capella dels Dolors",
+            "duration": "Durada:60 minuts",
+            "desc1": "Preu de grup: 7€ per persona (mínim 90€). Màxim 30 persones.",
+            "warn1": "Només grups amb reserva prèvia.",
+            "warn2": "Activitat no recomanada per a menors de 14 anys."
+        },
+        "act2": {
+            "title": "Visita guiada al conjunt dels Dolors",
+            "horari": "Dimarts - 11:30 / Dijous - 18:30 / Dissabte - 11:30 i 19:00",
+            "duration": "Durada: 75 minuts",
+            "desc1": "Preu per persona: 8€",
+            "desc2": "Reserva de grup: 105€. Màxim 15 persones.",
+            "warn1": "Places limitades, imprescindible reserva prèvia.",
+            "warn2": "Activitat no recomanada per a menors de 14 anys ni per a persones amb mobilitat reduïda."
+        },
+        "act3": {
+            "title": "Visita guiada a la Basílica de Santa Maria",
+            "duration": "Durada:60 minuts",
+            "desc1": "Preu de grup: 7€ per persona (mínim 90€). Màxim 30 persones.",
+            "warn1": "Només grups amb reserva prèvia.",
+            "warn2": "Activitat no recomanada per a menors de 14 anys."
+        },
+        "act4": {
+            "title": "Visita guiada a la parròquia de Sant Josep",
+            "duration": "Durada:75 minuts",
+            "desc": "Preu de grup: 7€ per persona (mínim 90€). Màxim 20 persones.",
+            "warn1": "Només grups amb reserva prèvia.",
+            "warn2": "Activitat no recomanada per a menors de 14 anys ni per a persones amb mobilitat reduïda."
+        }
+    },
+    "contact": {
+        "title": "CONTACTA AMB NOSALTRES",
+        "direction": "Vine a Sant Francesc d'Assís, 25, 08301 Mataró, Barcelona",
+        "email": "Envia un correu a info@santamariamataro.org",
+        "phone": "Truca al 659 132 649"
+    },
+    "found": {
+        "text1": "PÀGINA NO TROBADA",
+        "text2": "No s'ha trobat la pàgina sol·licitada",
+        "button": "Torna a l'inici"
+    }
+}

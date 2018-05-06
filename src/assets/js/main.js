@@ -16,6 +16,12 @@
         });
 
     $(function() {
+        var hfilter = new Image();
+        hfilter.src = "../../assets/images/historia_filter.png";
+        var afilter = new Image();
+        afilter.src = "../../assets/images/activitats_filter.png";
+        var dfilter = new Image();
+        dfilter.src = "../../assets/images/dolors_filter.png";
 
         var $window = $(window),
             $body = $('body'),
@@ -64,7 +70,6 @@
 
         // Menu.
         $('#menu')
-            .append('<a href="#menu" class="close"></a>')
             .appendTo($body)
             .panel({
                 delay: 500,
@@ -98,3 +103,17 @@
     });
 
 })(jQuery);
+
+function scroll() {
+    $header = $('#header');
+    // Scrolly.
+    $('.scrolly')
+        .scrolly({
+            speed: 350,
+            offset: $header.outerHeight()
+        });
+}
+
+function closeMenu() {
+    $("body").removeClass("is-menu-visible");
+}

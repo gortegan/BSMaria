@@ -1,35 +1,35 @@
 import { Component, OnInit } from '@angular/core';
-
+declare function scroll();
 @Component({
   selector: 'app-home',
   templateUrl: './home.component.html',
   styles: [`
-    .round1{
-      background: linear-gradient(rgba(0, 0, 0, .2), rgba(0, 0, 0, .2)), url("../../assets/images/historia.png");
+    #round1{
+      background: url("../../assets/images/historia.png");
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
     }
-    .round2{
-      background-image: linear-gradient(rgba(0, 0, 0, .2), rgba(0, 0, 0, .2)), url("../../assets/images/activitats.png");
+    #round2{
+      background-image: url("../../assets/images/activitats.png");
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
     }
-    .round3{
-      background-image: linear-gradient(rgba(0, 0, 0, .2), rgba(0, 0, 0, .2)), url("../../assets/images/dolors.png");
+    #round3{
+      background-image: url("../../assets/images/dolors.png");
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
     }
-    .round1:hover{
-      background-image: linear-gradient(-90deg, rgb(243, 144, 62, .7), rgb(166, 32, 106, .7)), url("../../assets/images/historia.png");
+    #round1:hover{
+      background-image: url("../../assets/images/historia_filter.png");
     }
-    .round2:hover{
-      background-image: linear-gradient(-90deg, rgb(243, 144, 62, .7), rgb(166, 32, 106, .7)), url("../../assets/images/activitats.png");
+    #round2:hover{
+      background-image: url("../../assets/images/activitats_filter.png");
     }
-    .round3:hover{
-      background-image: linear-gradient(-90deg, rgb(243, 144, 62, .7), rgb(166, 32, 106, .7)), url("../../assets/images/dolors.png");
+    #round3:hover{
+      background-image: url("../../assets/images/dolors_filter.png");
     }
     .divider-div{
       height: 350px;
@@ -50,6 +50,19 @@ import { Component, OnInit } from '@angular/core';
       background-repeat: no-repeat;
       background-size: cover;
     }
+    .modal {
+      top: 35px !important;
+    }
+
+    .modal-body {
+        padding: 0 !important;
+        height: 330px;
+    }
+
+    .modal-dialog {
+        max-width: 560px !important;
+        margin: 1.75rem auto;
+    }
   `]
 })
 export class HomeComponent implements OnInit {
@@ -57,6 +70,6 @@ export class HomeComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
+    scroll();
   }
-
 }

@@ -1,0 +1,135 @@
+{
+    "navbar": {
+        "title": "Santa Maria de Mataró",
+        "menu": "Menú",
+        "items": {
+            "langs": {
+                "es": "ES",
+                "cat": "CAT",
+                "en": "EN",
+                "fr": "FR"
+            },
+            "options": {
+                "home": "Inicio",
+                "dolors": "Dolores",
+                "tickets": "Entradas",
+                "parroquia": "Parroquia",
+                "edifici": "Edificio",
+                "contacte": "Contacto"
+            }
+        }
+    },
+    "footer": {
+        "direccio": "Dirección",
+        "contacte": "Contacto",
+        "arribar": {
+            "title": "Como llegar",
+            "public": "Transporte público",
+            "rodalies": "Rodalies Renfe C1 (información y reservas 902 24 02 02)",
+            "grup1": "Grup Sarbus",
+            "grup2": "Sagalés",
+            "particular": "Particular",
+            "carretera": "Por la autopista C-32, salidas Mataró Sur, Mataró Oeste y Mataró Norte, o la N-II. Desde Granollers, C-60, que está conectada a la C-32 y N-II."
+        }
+    },
+    "home": {
+        "find": "Descubre más",
+        "acts": {
+            "act1": {
+                "title": "Edificio",
+                "text1": "En el punto más elevado de la antigua ciudad de Iluro descansa, tras una austera fachada neoclásica, la memoria de una comunidad arraigada profundamente en el territorio.",
+                "text2": "Santa María es un espacio capaz de explicar el poso de más de veinte siglos. Su nave colosal revela un edificio en el que el diálogo entre expresiones artísticas y liturgia ha creado un espacio singular para la contemplación. "
+            },
+            "act2": {
+                "title": "Actividades",
+                "text1": "La visita a la Basílica es libre durante los horarios de apertura pública del edificio. ",
+                "text2": "Alguna actividades, por cuestiones de conservación y organización, precisan de reserva previa. "
+            },
+            "act3": {
+                "title": "Dolores",
+                "text1": "El Conjunt dels Dolors, testimonio indiscutible del barroco catalán. ",
+                "text2": "Vida y muerte, luz y oscuridad, celebración y duelo convergen en un espacio donde la fuerza de la teatralidad barroca sobrecoge y envuelve al espectador. "
+            },
+            "button": "+ Información"
+        },
+        "section1": {
+            "text1": "El templo de Santa María es un Bé Cultural d’Interès Nacional que se encuentra en un entorno privilegiado para entender una ciudad de época moderna. Testigo del paso del tiempo desde la llegada de los romanos, es el resultado del diálogo profundo entre la historia y el territorio, entre las necesidades de los fieles y las corrientes artísticas de cada momento. Una parroquia con más de diez siglos sobre sus hombros que narra las vicisitudes de un pueblo fiel a sus raíces.",
+            "text2": "El Conjunt dels Dolors destaca por ser un espacio devocional preservado como pocos se conservan. Es un bellísimo ejemplo de arquitectura barroca, un espacio fascinante donde las pinturas de Antoni de Viladomat y Joan Gallart envuelven al visitante casi acariciándolo. Los claroscuros, casi caravaggiescos, representan unos ideales que parece que salgan de las tinieblas. ¡Un espacio que tiene que vivirse!"
+        },
+        "section2": {
+            "text1": "Las visitas guiadas que se proponen permiten disfrutar de un conocimiento más preciso del patrimonio, contextualizado en su momento social, histórico y litúrgico. Un recorrido por la historia del arte y de la arquitectura, que no olvida los usos que inspiraron la construcción ni las personas que la hicieron posible. Mil años de patrimonio que explican el desarrollo social y las diferentes visiones antropológicas de la trascendencia; mil años de historia que se manifiestan en la voluntad de crear belleza con una finalidad que aún hoy se conserva.",
+            "text2": "Todas las actividades son realizadas por personal preparado para ofrecer una atención de calidad y una información precisa, un servicio que ofrece un discurso riguroso y una actividad amena.",
+            "button": "Tíquets"
+        }
+    },
+    "dolors": {
+        "title": "CONJUNTO DE LOS DOLORES",
+        "section1": {
+            "text1": "En el año 1698, en Mataró, el párroco Pau Llorens colocaba la primera piedra de uno de los monumentos más imponentes y representativos de una época y de un estilo. Un vestíbulo y una reja distinguen hoy la basílica de la antigua capilla adyacente, la de la Congregación.",
+            "text2": "Grandioso y luminoso al fondo, el retablo, presidido por una Virgen con el corazón atravesado por siete espadas, recuerda al espectador a quién está dedicado este espacio y, si bien la perspectiva invita a quedarse embelesado por su visión, pronto las pinturas al temple de las paredes y de la bóveda adentran al visitante en una atmósfera de contemplación y silencio; se trata del Vía Crucis, un conjunto pictórico excepcional realizado por el pintor barcelonés Antoni de Viladomat y su taller, que puede observarse en las paredes laterales, y de un paisaje celestial, coronado por el Padre Eterno y el Espíritu Santo, en la bóveda.",
+            "text3": "La capilla es el primer contacto con el Conjunto. En la misma planta se encuentra la Sacristía, antesala de dos mundos, de dos escaleras: una, austera y fría, desciende hacia la Cripta, como recordatorio de cuál es el sino de la vida humana; la otra, de subida, con las paredes profusamente decoradas, invita a levantar la mirada hacia la Sala de Juntes."
+        },
+        "section2": {
+            "text1": "Si bien la capilla fue concebida como un espacio de dolor, oración y silencio, la Sala de Juntes era el lugar de preparación, de reunión y debate, por ello las pinturas que la decoran representan la glorificación de María. Sin dejar de lado el claroscuro, la tragedia y la fastuosidad propias del barroco, es la Asunción, rodeada de los apóstoles y de las cortes celestiales, lo que envuelve e hipnotiza, en un pequeño receptáculo, trabajado con detallismo de orfebre, gran parte del cual también fue a cargo de Viladomat.",
+            "text2": "Más allá de su indudable valor artístico, el Conjunt dels Dolors es algo más que un espacio litúrgico, es un espacio de vida y encuentro, es el reflejo de una determinada manera de entender la fe y la espiritualidad y un valiosísimo testimonio de cómo se entendía y vivía la religiosidad, en comunidad, a principios del siglo XVIII. Sería imposible hablar del Conjunt dels Dolors sin la Congregación que lo erigió, que llegó a reunir a más de 1400 personas de diferentes oficios y orígenes sociales bajo una misma devoción, los Dolores de María, una advocación que recuerda el sufrimiento de una madre por su hijo.",
+            "text3": "Más allá de pintores, escultores y arquitectos, el Conjunt dels Dolors es la celebración de la colectividad, de un proyecto común que evidencia que las verdaderas obras maestras son fruto del encuentro de diversas sensibilidades y formas de entender el mundo.",
+            "button": "Visita los dolores"
+        }
+    },
+    "edifici": {
+        "title": "El edificio",
+        "text1": "Si la línea recta que se observa al contemplar la fachada pudiera hacer prever una continuidad en el interior, la fastuosidad barroca que espera al visitante al cruzar el cancel resulta sorprendente. La horizontalidad de la bóveda contrasta con la verticalidad de las capillas laterales.",
+        "text2": "Las cúpulas y los vitrales filtran la luz a lo largo de toda la basílica; dos cimborrios, a lado y lado del transepto, iluminan tenuemente las capillas cercanas a las puertas laterales y tanto la nave como el presbiterio reciben la luz tamizada de los vitrales, situados en el cuerpo superior del edificio.",
+        "text3": "El inmenso presbiterio, último vestigio del grandioso retablo barroco que presidía la nave, presenta el altar, justo en el centro, cubierto por un esbelto baldaquino de los años cuarenta que, hoy, por sus dimensiones, sustituye en función al antiguo retablo e invita a dirigir la mirada y lo convierte en el centro de atención.",
+        "text4": "Las capillas laterales, todas ellas enmarcadas por los antiguos arcos ojivales de la construcción gótica, son refugio de diversas devociones y dedicaciones, algunas de las cuales se pierden en la noche de los tiempos. Destaca la capilla dedicada a las Santas Juliana y Semproniana, que presenta, de modo poco habitual, una planta de cruz griega, y cobija la devoción por las patronas de la ciudad. Acoge también el recuerdo y los restos del Beato, desde 2010, Josep Samsó.",
+        "text5": "La Capilla del Sagrament, espacio de oración y de culto al Santísimo Sacramento, sigue los cánones del modernismo y está decorada profusamente con un estilo bizantino que genera una atmósfera idónea para la plegaria y la contemplación. Ayudan a ello los espectaculares vitrales, confrontados al altar, que matizan la luz que consigue adentrarse y que en determinados momentos del día llegan a salpicar de colores diversos los mosaicos del suelo y las pinturas de Enric Monserdà.",
+        "text6": "El baptisterio de Santa María, decorado por el artista ilurense Jordi Arenas, es el ejemplo perfecto de cómo el arte contemporáneo figurativo puede adaptarse de manera natural a los espacios religiosos. Justo detrás de la pila bautismal, un resplandeciente vitral emplomado que representa a Cristo le aporta un matiz de color capaz de romper su tonalidad cruda. Pese a la intensidad y la riqueza decorativa, se consigue que el verdadero protagonista sea la pila bautismal, puesto que todo el ciclo pictórico obliga a que la mirada se dirija hacia allí.",
+        "text7": "La Basílica de Santa María es, en resumen, el ejemplo vivo de una tradición que se arraiga en los primeros tiempos de nuestra era, que fructifica a lo largo de los siglos y que hoy en día luce exuberante a pesar, incluso, de las heridas que presenta."
+    },
+    "tickets": {
+        "title": "Entradas",
+        "warn": "Atención",
+        "reserva": "Reserva: 659 132 649",
+        "act1": {
+            "title": "Visita guiada a la Capilla de los Dolors",
+            "duration": "Duración:60 minutos",
+            "desc1": "Reserva de grupo: 7€ por persona (mínimo 90€). Máximo 30 personas",
+            "warn1": "Solo grupos con reserva previa.",
+            "warn2": "Actividad no recomendada para menores de 14 años."
+        },
+        "act2": {
+            "title": "Visita guiada al Conjunto de los Dolores",
+            "horari": "Martes 11h /Jueves 18h/ Sábado 11h y 19h",
+            "duration": "Duración: 75 minutos",
+            "desc1": "Precio por persona: 8 €",
+            "desc2": "Reserva de grupo: 105€. Máximo 15 personas",
+            "warn1": "Plazas limitadas, imprescindible reserva previa",
+            "warn2": "Actividad no recomendada para menores de 14 años ni para personas con movilidad reducida."
+        },
+        "act3": {
+            "title": "Visita guiada a la Basílica de Santa Maria",
+            "duration": "Duración:60 minutos",
+            "desc1": "Reserva de grupo: 7€ por persona (mínimo 90€). Máximo 30 personas.",
+            "warn1": "Solo grupos con reserva previa.",
+            "warn2": "Actividad no recomendada para menores de 14 años."
+        },
+        "act4": {
+            "title": "Visita guiada a la parroquia de San José",
+            "duration": "Duración:75 minutos",
+            "desc": "Reserva de grupo: 7€ por persona (mínimo 90€). Máximo 30 personas",
+            "warn1": "Solo grupos con reserva previa.",
+            "warn2": "Actividad no recomendada para menores de 14 años ni para personas con movilidad reducida."
+        }
+    },
+    "contact": {
+        "title": "CONTACTA CON NOSOTROS",
+        "direction": "Ven a Sant Francesc d'Assís, 25, 08301 Mataró, Barcelona",
+        "email": "Envía un correo a info@santamariamataro.org",
+        "phone": "Llama al 659 132 649"
+    },
+    "found": {
+        "text1": "PÁGINA NO ENCONTRADA",
+        "text2": "No se ha encontrado la página solicitada",
+        "button": "Vuelve al inicio"
+    }
+}

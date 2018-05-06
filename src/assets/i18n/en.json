@@ -1,0 +1,135 @@
+{
+    "navbar": {
+        "title": "Santa Maria de Mataró",
+        "menu": "Menu",
+        "items": {
+            "langs": {
+                "es": "ES",
+                "cat": "CAT",
+                "en": "EN",
+                "fr": "FR"
+            },
+            "options": {
+                "home": "Home",
+                "dolors": "Dolors",
+                "tickets": "Tickets",
+                "parroquia": "Parish",
+                "edifici": "Building",
+                "contacte": "Contact"
+            }
+        }
+    },
+    "footer": {
+        "direccio": "Direction",
+        "contacte": "Contact",
+        "arribar": {
+            "title": "How to get there",
+            "public": "Public transport",
+            "rodalies": "Rodalies Renfe C1. Information and reservations 902 24 02 02.",
+            "grup1": "Grup Sarbus",
+            "grup2": "Sagalés",
+            "particular": "By Car",
+            "carretera": "By highway C-32, exits: Mataró Sud, Mataró Oest and Mataró Nord, or by national road N-II. From Granollers, C-60, linking with C-32 and with N-II."
+        }
+    },
+    "home": {
+        "find": "Find more",
+        "acts": {
+            "act1": {
+                "title": "Building",
+                "text1": "At the highest point of the old city named Iluro, rests an austere neoclassic façade, souvenir of a community deeply rooted to the territory.",
+                "text2": "The Basílica de Santa Maria (Holy Mary basilica) is a place able to explain the events happened during more than twenty centuries. Its colossal nave reveals a building in which the dialogue between the artistic expressions and the liturgy has created a singular place for contemplation. "
+            },
+            "act2": {
+                "title": "Tickets",
+                "text1": "The visit to the basilica is free during the public opening hours of the building. ",
+                "text2": "Some activities, due to reasons of conservation and organization can only be done with a previous booking. "
+            },
+            "act3": {
+                "title": "Dolors",
+                "text1": "The Conjunt dels Dolors (Ensemble of the Sorrows), indisputable witness of Catalan Baroque.",
+                "text2": "Life and death, light and darkness, celebration and mourning convert in a place where the strength of the Baroque drama wraps the spectator. "
+            },
+            "button": "+ Information"
+        },
+        "section1": {
+            "text1": "Santa Marias’s temple is a Cultural Well of National Interest located in a privileged surrounding to understand a modern city. Witness of the time that has passed since the arrival of the Romans, it is the result of a profound dialogue between the history and the territory, between the needs of its faithful believers and the artistic movements of every time. A parish more than ten centuries old that explains the life experiences of a community faithful to its origins.",
+            "text2": "The Sorrows Ensemble stands out to be a devotional place, preserved as few that we have around. A wonderful example of baroque architecture, a fascinating space where the paintings of Viladomat and Joan Gallart wrap the visitor. Some chiaroscuros almost Caravaggian that show some ideals that seem to come out from the darkness. A place worth experiencing!"
+        },
+        "section2": {
+            "text1": "The proposed guided visits allow the visitor to enjoy of a more accurate knowledge of the heritage, contextualized in its social, historic and liturgical moment. A tour through the history of art and the architecture that doesn’t leave on the side the use that inspired the building of the place and the people who made it possible. A thousand years of heritage that explain the social development as well as the different anthropological points of view of the transcendence; a thousand years of history that exhibit the will to produce beauty with a goal that has been kept until today.",
+            "text2": "All the activities are realized by prepared professionals that will offer a quality attention as well as accurate information, a service that plans a rigorous discourse but keeping in mind to realize a leisure activity.",
+            "button": "Tickets"
+        }
+    },
+    "dolors": {
+        "title": "DOLORS",
+        "section1": {
+            "text1": "In 1698, in Mataró, the Dean Pau Llorens put the first stone of one of the most important and representative monuments of an age and a style. A lobby and a gate distinguish nowadays the basilica of the old Sorrows congregant’s chapel.",
+            "text2": "Magnificent and full of light at the back, the Altarpiece, presided by a Mother of God whose heart is trespassed by seven swords, reminds the spectator to who this space is dedicated. Even though the perspective invites the visitor to stare at it for hours, soon the oil paintings on the walls and the vault make the spectator get into an atmosphere of contemplation and silence. An exceptional pictorial set realized by the painter from Barcelona, Antoni Viladomat and his atelier, that shows a Via Crucis on the walls and a celestial landscape crowned by the Eternal Father and the Holy Spirit.",
+            "text3": "The chapel is the first sip of all the Ensemble. At the same floor, we can find the Sacristy, the entrance hall of two worlds, there are two stairs: one that goes down, austere and cold, leads to the Crypt, and is a reminder of the destiny of Humanity. The other stair, goes up, and its walls highly decorated invite the spectator to look up to the Boardroom."
+        },
+        "section2": {
+            "text1": "If the chapel was conceived as a space for pain, praying and silence, the Boardroom was the preparation place, as well as the room to meet and to debate. Therefore, the paintings we can find in there show Mary’s glorification. Not forgetting the chiaroscuro, the tragedy or the sumptuous, the Assumption, surrounded by the Apostles and the Celestial Courts, wraps and hypnotizes, in a small receptacle created with the delicacy of a goldsmith, created in a major part by the before mentioned painter, Viladomat.",
+            "text2": "Beyond its undoubtable artistic value, the Conjunt dels Dolors is more than a liturgical space, it is a place to live and to meet, the reflex of a determined way to understand faith and spirituality and a very valuable witness of how was religiosity lived and understood in community at the beginning of the Eighteenth Century. It would be impossible to talk about the Sorrows Ensemble without the Congregation that build it up, that arrived to join more than 1400 people from different trades and social origins, all together under the same devotion, Mary’s Sorrows, an avocation that reminds the sufferings of a mother towards her son.",
+            "text3": "A part from the painters, sculptors and architects, the Conjunt dels Dolors is a celebration of a collectivity, it is a common project that shows that real masterpieces are the result of the encounter of diverse sensitivities and different ways of understanding the world.",
+            "button": "Visit dolors"
+        }
+    },
+    "edifici": {
+        "title": "The building",
+        "text1": "If the straight line that we can see while looking at the façade leads to think that there will be a continuity in the inside, the baroque magnificence who is awaiting for the visitor is overwhelming. The horizontality of the vault contrasts with the verticality of the lateral chapels.",
+        "text2": "The domes and the stained glass windows filter the light across the basilica, two lantern towers on each side of the transept subtly enlighten the chapels situated close to the lateral doors, this way the nave and the chancel receive the sifted light of the stained glass windows located in the superior part of the building.",
+        "text3": "The immense chancel, last remain of the grandiose baroque altarpiece that once presided the nave, introduces the altar, just in the center, covered by a baldachin from the decade of the 1940’s that nowadays, for its dimensions, substitutes in function the old altarpiece.",
+        "text4": "The lateral chapels, all of them framed by the ancient lancet arches of the gothic building, are shelter of the diverse devotions and dedications, some of them lost in the night of times. The chapel dedicated to the Saints Juliana and Semproniana stands out since it has a Greek cross plan and shows the devotion for the Saints of the city. There we find too, since 2010, the memories and the remains of Blessed Josep Samsó.",
+        "text5": "The sacrament chapel, place for prayer and cult to the Holiest, follows the Modernism canons and is highly decorated following a byzantine style that creates a perfect atmosphere for prayer and contemplation. The stained glass windows help create this ambient, since they are confronted to the altar and they give a soften light to the place, creating even some games with the light at determined moments of the day, where the lightning gives surprising effects to the floor and the paintings of Enric Monserdà.",
+        "text6": "Santa Maria’s baptistery, decorated by Jordi Arenas (an artist from Mataró), is the perfect example of how contemporary figurative art can be adapted to religious places. Just behind the baptismal font, a resplendent leaded stained glass window represents the resurrection of Christ and brings a nuance of color able to break with the nude tonality. Despite the intensity and the decorative wealth, the baptismal font remains the focus of the room since all the pictorial circle leads the visitor’s look towards it.",
+        "text7": "Santa Maria’s basilica is, to sum up, the living example of a tradition rooted in the first times of our era, that has been growing up towards the centuries and that nowadays keeps on shinning despite of all the injuries that she flaunts."
+    },
+    "tickets": {
+        "title": "Tickets",
+        "warn": "Attention",
+        "reserva": "Reserve: 659 132 649",
+        "act1": {
+            "title": "Guided tour to the Capella dels Dolors (Sorrows Chapel)",
+            "duration": "Duration: 60 minutes",
+            "desc1": "Group price: 7 € per person (minimum 90€). Maximum 30 people",
+            "warn1": "Only groups with previous booking",
+            "warn2": "Activity non recommended to children under 14"
+        },
+        "act2": {
+            "title": " Guided tour to the Conjunt dels Dolors",
+            "horari": "Tuesday 11h/ Thursday 18h/ Saturday 11h and 19h",
+            "duration": "Duration: 75 minutes",
+            "desc1": "Price per person: 8 €",
+            "desc2": "Group reservation: 105€. Maximum 15 people",
+            "warn1": "Only groups with previous booking",
+            "warn2": "Activity non recommended for children under 14 nor for people having reduced mobility."
+        },
+        "act3": {
+            "title": "Guided tour to Santa Maria’s Basilica",
+            "duration": "Duration: 60 minutes",
+            "desc1": "Group price: 7 € per person (minimum 90€). Maximum 30 people",
+            "warn1": "Only groups with previous booking",
+            "warn2": "Activity non recommended to children under 14"
+        },
+        "act4": {
+            "title": "Guided tour of Sant Josep (Saint Joseph’s) Parish",
+            "duration": "Duration: 75 minutes",
+            "desc": "Duration: 75 minutes",
+            "warn1": "Only groups with previous booking",
+            "warn2": "Activity non recommended for children under 14 nor for people having reduced mobility."
+        }
+    },
+    "contact": {
+        "title": "CONTACT WITH US",
+        "direction": "Come to Sant Francesc d'Assís, 25, 08301 Mataró, Barcelona",
+        "email": "Send an email to info@santamariamataro.org",
+        "phone": "Call to 659 132 649"
+    },
+    "found": {
+        "text1": "PAGE NOT FOUND",
+        "text2": "We could not found that page",
+        "button": "Back home"
+    }
+}
